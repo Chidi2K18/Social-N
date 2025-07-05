@@ -1,0 +1,2 @@
+<button class="btn dropdown-toggle status_dropdown__click" data-bs-toggle="dropdown" aria-expanded="false"> <?php echo e($title); ?> </button>
+<?php /**PATH /home/u412525603/domains/azure-wildcat-912858.hostingersite.com/core/resources/views/components/status/table/select-action.blade.php ENDPATH**/ ?>

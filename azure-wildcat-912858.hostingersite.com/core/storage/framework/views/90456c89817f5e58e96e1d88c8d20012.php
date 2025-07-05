@@ -1,0 +1,2 @@
+<script src="<?php echo e(asset('assets/backend/js/taginput/bootstrap-tagsinput.js')); ?>"></script>
+<?php /**PATH /home/clouddeployx.com/public_html/core/resources/views/components/tags/tag-input-js.blade.php ENDPATH**/ ?>

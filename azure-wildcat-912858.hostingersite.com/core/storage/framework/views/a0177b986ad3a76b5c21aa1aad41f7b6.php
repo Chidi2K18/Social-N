@@ -1,0 +1,2 @@
+<a href="javascript:void(0)" class="<?php echo e($class ?? ''); ?>"> <?php echo e($title ?? ''); ?> </a>
+<?php /**PATH /home/u412525603/domains/azure-wildcat-912858.hostingersite.com/core/resources/views/components/btn/close.blade.php ENDPATH**/ ?>
