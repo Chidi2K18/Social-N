@@ -1,0 +1,2 @@
+<link rel="stylesheet" href="<?php echo e(asset('assets/backend/css/summernote-lite.min.css')); ?>">
+<?php /**PATH /home/u412525603/domains/azure-wildcat-912858.hostingersite.com/core/resources/views/components/summernote/summernote-css.blade.php ENDPATH**/ ?>

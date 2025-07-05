@@ -1,0 +1,2 @@
+<button type="submit" class="<?php echo e($class ?? ''); ?>"><?php echo e($title ?? ''); ?></button>
+<?php /**PATH /home/u412525603/domains/azure-wildcat-912858.hostingersite.com/core/resources/views/components/btn/submit.blade.php ENDPATH**/ ?>

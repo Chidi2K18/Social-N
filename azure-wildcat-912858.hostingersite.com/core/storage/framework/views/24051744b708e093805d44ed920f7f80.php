@@ -1,0 +1,2 @@
+<script src="<?php echo e(asset('assets/common/js/select2.min.js')); ?>"></script>
+<?php /**PATH /home/u412525603/domains/azure-wildcat-912858.hostingersite.com/core/resources/views/components/select2/select2-js.blade.php ENDPATH**/ ?>
