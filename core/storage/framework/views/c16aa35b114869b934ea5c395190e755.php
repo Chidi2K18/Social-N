@@ -1,2 +1,0 @@
-<script src="<?php echo e(asset('assets/common/js/jquery.dataTables.min.js')); ?>"></script>
-<?php /**PATH /home/clouddeployx.com/public_html/core/resources/views/components/data-table/data-table-js.blade.php ENDPATH**/ ?>

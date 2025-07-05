@@ -1,2 +1,0 @@
-<a class="dropdown-item status_dropdown__list__link" href="<?php echo e($url); ?>"><?php echo e($title); ?></a>
-<?php /**PATH /home/clouddeployx.com/public_html/core/resources/views/components/btn/edit.blade.php ENDPATH**/ ?>
